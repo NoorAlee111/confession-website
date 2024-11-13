@@ -1,0 +1,41 @@
+.custom-btn-spacing{
+    margin-right: 10px;
+  
+}
+.belownav{
+    height: 150px;
+    text-align: center;
+   padding-top: 3.5em;
+   color: aliceblue;
+   font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(45, 46, 69);
+}
+.inputdiv{
+    margin-top: 4em;
+    margin-left: 2em;
+    row-gap: 1em;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.inputdiv select {
+    margin-bottom: 10px;
+    margin-top: 1em;
+    width: 300px;
+}
+.headi{
+    margin-top: 1em;
+    margin-left: 1em;
+}
+.card {
+    border: 1px solid #171515;
+    margin: 10px;
+    padding: 10px;
+}
+.card-body {
+    border: 5px solid #171515;
+    padding: 2em;
+ 
+}
